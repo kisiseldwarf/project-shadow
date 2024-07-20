@@ -11,15 +11,15 @@ config_version=5
 [application]
 
 config/name="Project-shadow"
-run/main_scene="res://HUD.tscn"
+run/main_scene="res://scenes/HUD.tscn"
 config/features=PackedStringArray("4.2", "GL Compatibility")
 config/icon="res://icon.svg"
 
 [autoload]
 
-Hud="*res://Hud.gd"
-Controls="*res://Controls.gd"
-ShadowWords="*res://ShadowWords.gd"
+Hud="*res://globals/Hud.gd"
+Controls="*res://globals/Controls.gd"
+ShadowWords="*res://globals/ShadowWords.gd"
 
 [input]
 

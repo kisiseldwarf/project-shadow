@@ -1,8 +1,8 @@
 [gd_scene load_steps=7 format=3 uid="uid://o8p776dfcema"]
 
-[ext_resource type="Texture2D" uid="uid://cgdec0ahsuunf" path="res://buttons/a.png" id="1_yl00k"]
-[ext_resource type="Texture2D" uid="uid://c2v6ls5r7x0fq" path="res://buttons/b.png" id="2_73guh"]
-[ext_resource type="Texture2D" uid="uid://nurwru3ftctn" path="res://buttons/x.png" id="3_wu2us"]
+[ext_resource type="Texture2D" uid="uid://cgdec0ahsuunf" path="res://buttons/a.png" id="1_81fhf"]
+[ext_resource type="Texture2D" uid="uid://c2v6ls5r7x0fq" path="res://buttons/b.png" id="2_p0pbc"]
+[ext_resource type="Texture2D" uid="uid://nurwru3ftctn" path="res://buttons/x.png" id="3_oa2ug"]
 
 [sub_resource type="PlaceholderTexture2D" id="PlaceholderTexture2D_7eu8i"]
 
@@ -69,7 +69,7 @@ texture = SubResource("PlaceholderTexture2D_f5xt1")
 texture_filter = 1
 layout_mode = 2
 size_flags_vertical = 3
-texture = ExtResource("1_yl00k")
+texture = ExtResource("1_81fhf")
 stretch_mode = 5
 
 [node name="VoidContainer" type="VBoxContainer" parent="ShadowWordContainer"]
@@ -84,7 +84,7 @@ texture = SubResource("PlaceholderTexture2D_f5xt1")
 texture_filter = 1
 layout_mode = 2
 size_flags_vertical = 3
-texture = ExtResource("2_73guh")
+texture = ExtResource("2_p0pbc")
 stretch_mode = 5
 
 [node name="IceContainer" type="VBoxContainer" parent="ShadowWordContainer"]
@@ -99,5 +99,5 @@ texture = SubResource("PlaceholderTexture2D_f5xt1")
 texture_filter = 1
 layout_mode = 2
 size_flags_vertical = 3
-texture = ExtResource("3_wu2us")
+texture = ExtResource("3_oa2ug")
 stretch_mode = 5
