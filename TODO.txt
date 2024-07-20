@@ -1,0 +1,16 @@
+HUD
+ - dessins + animations de l'hud
+ - Animation de l'erlenmeyer lorsqu'on a une potion
+ - Affichage du nom de la potion en bas de l'hud
+
+Basics
+ - Character movements
+ - Ennemis + character HP
+ - Character death
+ - Character and enemis VFX (bruits de pas, bruit de morts, bruit d'attaque, voix des ennemis)
+
+Potions
+ - Lancer potion
+ - Balancer potion au corps a corps
+ - Portes qui se débloque avec potion acide
+ - Limiter l'ajout d'ingrédients a 6 pour éviter les pbs de perf
