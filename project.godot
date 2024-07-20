@@ -19,6 +19,7 @@ config/icon="res://icon.svg"
 
 Hud="*res://Hud.gd"
 Controls="*res://Controls.gd"
+ShadowWords="*res://ShadowWords.gd"
 
 [input]
 
